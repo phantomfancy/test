@@ -15,5 +15,6 @@ int main()
     std::cout << "HelloWorld!" << std::endl;
     std::cout << "Test git repo on 2025/8/14 using VSCode" << std::endl;
     std::cout << "Also test on Visual Studio" << std::endl;
+    std::cout << "tets git ignore" << std::endl;
     return 0;
 }
