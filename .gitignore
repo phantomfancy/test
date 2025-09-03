@@ -1,10 +1,52 @@
-﻿.vs/
-
-*.d
+# Build output
+*.exe
 *.o
 *.obj
-*.a
-*.exe
-*.ilk
-*.pdb
+*.out
+
+# IDE specific files
+.vs/
+.vscode/
 *.suo
+*.user
+*.sln
+*.vcxproj*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.pdb
+*.idb
+*.ilk
+
+# Local development files
+*.local
+*.swp
+*.swo
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Other
+*.bak
+*.tmp
