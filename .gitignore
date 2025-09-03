@@ -1,1 +1,10 @@
 ﻿.vs/
+
+*.d
+*.o
+*.obj
+*.a
+*.exe
+*.ilk
+*.pdb
+*.suo
